@@ -1,0 +1,440 @@
+DBCC results for 'ION_Data'.
+Mensagem 8939, Nível 16, Estado 98, Linha 1
+Table error: Object ID 0, index ID -1, partition ID 0, alloc unit ID 5716263367916584960 (type Unknown), page (16191:1061109567). Test (IS_OFF (BUF_IOERR, pBUF->bstat)) failed. Values are 133129 and -10.
+Mensagem 8939, Nível 16, Estado 98, Linha 1
+Table error: Object ID 0, index ID -1, partition ID 0, alloc unit ID 5716263367916584960 (type Unknown), page (16191:1061109567). Test (IS_OFF (BUF_IOERR, pBUF->bstat)) failed. Values are 133129 and -10.
+Service Broker Msg 9675, State 1: Message Types analyzed: 14.
+Service Broker Msg 9676, State 1: Service Contracts analyzed: 6.
+Service Broker Msg 9667, State 1: Services analyzed: 3.
+Service Broker Msg 9668, State 1: Service Queues analyzed: 3.
+Service Broker Msg 9669, State 1: Conversation Endpoints analyzed: 0.
+Service Broker Msg 9674, State 1: Conversation Groups analyzed: 0.
+Service Broker Msg 9670, State 1: Remote Service Bindings analyzed: 0.
+Service Broker Msg 9605, State 1: Conversation Priorities analyzed: 0.
+CHECKDB found 0 allocation errors and 2 consistency errors not associated with any single object.
+DBCC results for 'sys.sysrscols'.
+There are 2196 rows in 34 pages for object "sys.sysrscols".
+DBCC results for 'sys.sysrowsets'.
+There are 350 rows in 5 pages for object "sys.sysrowsets".
+DBCC results for 'sys.sysclones'.
+There are 0 rows in 0 pages for object "sys.sysclones".
+DBCC results for 'sys.sysallocunits'.
+There are 413 rows in 6 pages for object "sys.sysallocunits".
+DBCC results for 'sys.sysfiles1'.
+There are 2 rows in 1 pages for object "sys.sysfiles1".
+DBCC results for 'sys.sysseobjvalues'.
+There are 0 rows in 0 pages for object "sys.sysseobjvalues".
+DBCC results for 'sys.syspriorities'.
+There are 0 rows in 0 pages for object "sys.syspriorities".
+DBCC results for 'sys.sysdbfrag'.
+There are 0 rows in 0 pages for object "sys.sysdbfrag".
+DBCC results for 'sys.sysfgfrag'.
+There are 0 rows in 0 pages for object "sys.sysfgfrag".
+DBCC results for 'sys.sysdbfiles'.
+There are 2 rows in 1 pages for object "sys.sysdbfiles".
+DBCC results for 'sys.syspru'.
+There are 0 rows in 0 pages for object "sys.syspru".
+DBCC results for 'sys.sysbrickfiles'.
+There are 0 rows in 0 pages for object "sys.sysbrickfiles".
+DBCC results for 'sys.sysphfg'.
+There are 1 rows in 1 pages for object "sys.sysphfg".
+DBCC results for 'sys.sysprufiles'.
+There are 2 rows in 1 pages for object "sys.sysprufiles".
+DBCC results for 'sys.sysftinds'.
+There are 0 rows in 0 pages for object "sys.sysftinds".
+DBCC results for 'sys.sysowners'.
+There are 23 rows in 1 pages for object "sys.sysowners".
+DBCC results for 'sys.sysdbreg'.
+There are 0 rows in 0 pages for object "sys.sysdbreg".
+DBCC results for 'sys.sysprivs'.
+There are 296 rows in 2 pages for object "sys.sysprivs".
+DBCC results for 'sys.sysschobjs'.
+There are 3194 rows in 70 pages for object "sys.sysschobjs".
+DBCC results for 'sys.syscsrowgroups'.
+There are 0 rows in 0 pages for object "sys.syscsrowgroups".
+DBCC results for 'sys.sysextsources'.
+There are 0 rows in 0 pages for object "sys.sysextsources".
+DBCC results for 'sys.sysexttables'.
+There are 0 rows in 0 pages for object "sys.sysexttables".
+DBCC results for 'sys.sysextfileformats'.
+There are 0 rows in 0 pages for object "sys.sysextfileformats".
+DBCC results for 'sys.sysmultiobjvalues'.
+There are 0 rows in 0 pages for object "sys.sysmultiobjvalues".
+DBCC results for 'sys.syscolpars'.
+There are 3862 rows in 75 pages for object "sys.syscolpars".
+DBCC results for 'sys.sysxlgns'.
+There are 0 rows in 0 pages for object "sys.sysxlgns".
+DBCC results for 'sys.sysxsrvs'.
+There are 0 rows in 0 pages for object "sys.sysxsrvs".
+DBCC results for 'sys.sysnsobjs'.
+There are 1 rows in 1 pages for object "sys.sysnsobjs".
+DBCC results for 'sys.sysusermsgs'.
+There are 0 rows in 0 pages for object "sys.sysusermsgs".
+DBCC results for 'sys.syscerts'.
+There are 0 rows in 0 pages for object "sys.syscerts".
+DBCC results for 'sys.sysrmtlgns'.
+There are 0 rows in 0 pages for object "sys.sysrmtlgns".
+DBCC results for 'sys.syslnklgns'.
+There are 0 rows in 0 pages for object "sys.syslnklgns".
+DBCC results for 'sys.sysxprops'.
+There are 10 rows in 1 pages for object "sys.sysxprops".
+DBCC results for 'sys.sysscalartypes'.
+There are 44 rows in 1 pages for object "sys.sysscalartypes".
+DBCC results for 'sys.systypedsubobjs'.
+There are 0 rows in 0 pages for object "sys.systypedsubobjs".
+DBCC results for 'sys.sysidxstats'.
+There are 726 rows in 13 pages for object "sys.sysidxstats".
+DBCC results for 'sys.sysiscols'.
+There are 1064 rows in 8 pages for object "sys.sysiscols".
+DBCC results for 'sys.sysendpts'.
+There are 0 rows in 0 pages for object "sys.sysendpts".
+DBCC results for 'sys.syswebmethods'.
+There are 0 rows in 0 pages for object "sys.syswebmethods".
+DBCC results for 'sys.sysbinobjs'.
+There are 23 rows in 1 pages for object "sys.sysbinobjs".
+DBCC results for 'sys.sysaudacts'.
+There are 0 rows in 0 pages for object "sys.sysaudacts".
+DBCC results for 'sys.sysobjvalues'.
+There are 1177 rows in 412 pages for object "sys.sysobjvalues".
+DBCC results for 'sys.syscscolsegments'.
+There are 0 rows in 0 pages for object "sys.syscscolsegments".
+DBCC results for 'sys.syscsdictionaries'.
+There are 0 rows in 0 pages for object "sys.syscsdictionaries".
+DBCC results for 'sys.sysclsobjs'.
+There are 19 rows in 1 pages for object "sys.sysclsobjs".
+DBCC results for 'sys.sysrowsetrefs'.
+There are 0 rows in 0 pages for object "sys.sysrowsetrefs".
+DBCC results for 'sys.sysremsvcbinds'.
+There are 0 rows in 0 pages for object "sys.sysremsvcbinds".
+DBCC results for 'sys.sysxmitqueue'.
+There are 0 rows in 0 pages for object "sys.sysxmitqueue".
+DBCC results for 'sys.sysrts'.
+There are 1 rows in 1 pages for object "sys.sysrts".
+DBCC results for 'sys.sysconvgroup'.
+There are 0 rows in 0 pages for object "sys.sysconvgroup".
+DBCC results for 'sys.sysdesend'.
+There are 0 rows in 0 pages for object "sys.sysdesend".
+DBCC results for 'sys.sysdercv'.
+There are 0 rows in 0 pages for object "sys.sysdercv".
+DBCC results for 'sys.syssingleobjrefs'.
+There are 690 rows in 5 pages for object "sys.syssingleobjrefs".
+DBCC results for 'sys.sysmultiobjrefs'.
+There are 3565 rows in 23 pages for object "sys.sysmultiobjrefs".
+DBCC results for 'sys.sysguidrefs'.
+There are 0 rows in 1 pages for object "sys.sysguidrefs".
+DBCC results for 'sys.sysfoqueues'.
+There are 0 rows in 0 pages for object "sys.sysfoqueues".
+DBCC results for 'sys.syschildinsts'.
+There are 0 rows in 0 pages for object "sys.syschildinsts".
+DBCC results for 'sys.syscompfragments'.
+There are 0 rows in 0 pages for object "sys.syscompfragments".
+DBCC results for 'sys.sysftsemanticsdb'.
+There are 0 rows in 0 pages for object "sys.sysftsemanticsdb".
+DBCC results for 'sys.sysftstops'.
+There are 0 rows in 0 pages for object "sys.sysftstops".
+DBCC results for 'sys.sysftproperties'.
+There are 0 rows in 0 pages for object "sys.sysftproperties".
+DBCC results for 'sys.sysxmitbody'.
+There are 0 rows in 0 pages for object "sys.sysxmitbody".
+DBCC results for 'sys.sysfos'.
+There are 0 rows in 0 pages for object "sys.sysfos".
+DBCC results for 'sys.sysqnames'.
+There are 98 rows in 1 pages for object "sys.sysqnames".
+DBCC results for 'sys.sysxmlcomponent'.
+There are 100 rows in 1 pages for object "sys.sysxmlcomponent".
+DBCC results for 'sys.sysxmlfacet'.
+There are 112 rows in 1 pages for object "sys.sysxmlfacet".
+DBCC results for 'sys.sysxmlplacement'.
+There are 19 rows in 1 pages for object "sys.sysxmlplacement".
+DBCC results for 'sys.sysobjkeycrypts'.
+There are 0 rows in 0 pages for object "sys.sysobjkeycrypts".
+DBCC results for 'sys.sysasymkeys'.
+There are 0 rows in 0 pages for object "sys.sysasymkeys".
+DBCC results for 'sys.syssqlguides'.
+There are 0 rows in 0 pages for object "sys.syssqlguides".
+DBCC results for 'sys.sysbinsubobjs'.
+There are 3 rows in 1 pages for object "sys.sysbinsubobjs".
+DBCC results for 'sys.syssoftobjrefs'.
+There are 1366 rows in 18 pages for object "sys.syssoftobjrefs".
+DBCC results for 'Tanque'.
+There are 89 rows in 1 pages for object "Tanque".
+DBCC results for 'sys.sqlagent_jobs'.
+There are 0 rows in 0 pages for object "sys.sqlagent_jobs".
+DBCC results for 'sys.sqlagent_jobsteps'.
+There are 0 rows in 0 pages for object "sys.sqlagent_jobsteps".
+DBCC results for 'sys.sqlagent_job_history'.
+There are 0 rows in 0 pages for object "sys.sqlagent_job_history".
+DBCC results for 'sys.sqlagent_jobsteps_logs'.
+There are 0 rows in 0 pages for object "sys.sqlagent_jobsteps_logs".
+DBCC results for 'equipamento_relacao'.
+There are 10 rows in 1 pages for object "equipamento_relacao".
+DBCC results for 'parametros'.
+There are 465 rows in 5 pages for object "parametros".
+DBCC results for 'UsinaConfiguracao'.
+There are 4 rows in 1 pages for object "UsinaConfiguracao".
+DBCC results for 'usuarios'.
+There are 31 rows in 1 pages for object "usuarios".
+DBCC results for 'usuario_equipamento'.
+There are 10664 rows in 45 pages for object "usuario_equipamento".
+DBCC results for 'Channel'.
+There are 54663 rows in 438 pages for object "Channel".
+DBCC results for 'PQ_ClassificationRegions'.
+There are 17 rows in 1 pages for object "PQ_ClassificationRegions".
+Mensagem 8935, Nível 16, Estado 1, Linha 1
+Table error: Object ID 373576369, index ID 1, partition ID 72057594041401344, alloc unit ID 72057594062241792 (type In-row data). The previous link (1:7096526) on page (1:5902335) does not match the previous page (1:5902334) that the parent (1:1207707), slot 112 expects for this page.
+Mensagem 8936, Nível 16, Estado 1, Linha 1
+Table error: Object ID 373576369, index ID 1, partition ID 72057594041401344, alloc unit ID 72057594062241792 (type In-row data). B-tree chain linkage mismatch. (1:5902334)->next = (1:5902335), but (1:5902335)->Prev = (1:7096526).
+Mensagem 8934, Nível 16, Estado 3, Linha 1
+Table error: Object ID 373576369, index ID 1, partition ID 72057594041401344, alloc unit ID 72057594062241792 (type In-row data). The high key value on page (1:5902334) (level 0) is not less than the low key value in the parent (0:1), slot 0 of the next page (1:5902335).
+Mensagem 8936, Nível 16, Estado 1, Linha 1
+Table error: Object ID 373576369, index ID 1, partition ID 72057594041401344, alloc unit ID 72057594062241792 (type In-row data). B-tree chain linkage mismatch. (1:5902335)->next = (1:6114642), but (1:6114642)->Prev = (1:6114641).
+Mensagem 8976, Nível 16, Estado 1, Linha 1
+Table error: Object ID 373576369, index ID 2, partition ID 72057594041466880, alloc unit ID 72057594062307328 (type In-row data). Page (1:7111135) was not seen in the scan although its parent (1:7120403) and previous (1:7111134) refer to it. Check any previous errors.
+Mensagem 8939, Nível 16, Estado 98, Linha 1
+Table error: Object ID 373576369, index ID 2, partition ID 72057594041466880, alloc unit ID 72057594062307328 (type In-row data), page (1:7111135). Test (IS_OFF (BUF_IOERR, pBUF->bstat)) failed. Values are 133129 and -4.
+Mensagem 8928, Nível 16, Estado 1, Linha 1
+Object ID 373576369, index ID 2, partition ID 72057594041466880, alloc unit ID 72057594062307328 (type In-row data): Page (1:7111135) could not be processed.  See other errors for details.
+Mensagem 8978, Nível 16, Estado 1, Linha 1
+Table error: Object ID 373576369, index ID 2, partition ID 72057594041466880, alloc unit ID 72057594062307328 (type In-row data). Page (1:7111232) is missing a reference from previous page (1:7111135). Possible chain linkage problem.
+Mensagem 8978, Nível 16, Estado 1, Linha 1
+Table error: Object ID 373576369, index ID 1, partition ID 72057594041401344, alloc unit ID 72057594062241792 (type In-row data). Page (1:5902344) is missing a reference from previous page (1:5902335). Possible chain linkage problem.
+DBCC results for 'DataLog2'.
+There are 402016464 rows in 1949297 pages for object "DataLog2".
+CHECKDB found 0 allocation errors and 9 consistency errors in table 'DataLog2' (object ID 373576369).
+DBCC results for 'PQ_Classifications'.
+There are 6 rows in 1 pages for object "PQ_Classifications".
+DBCC results for 'DefaultLabelQuantity'.
+There are 5392 rows in 39 pages for object "DefaultLabelQuantity".
+DBCC results for 'perfil'.
+There are 43 rows in 1 pages for object "perfil".
+DBCC results for 'Device'.
+There are 1105 rows in 9 pages for object "Device".
+DBCC results for 'AGENDA_CONFIGURACAO_CCEE'.
+There are 2 rows in 1 pages for object "AGENDA_CONFIGURACAO_CCEE".
+DBCC results for 'menu'.
+There are 141 rows in 2 pages for object "menu".
+DBCC results for 'EventString'.
+There are 60227 rows in 250 pages for object "EventString".
+DBCC results for 'Pedido_2018'.
+There are 340 rows in 3 pages for object "Pedido_2018".
+DBCC results for 'Namespace'.
+There are 1 rows in 1 pages for object "Namespace".
+DBCC results for 'nivel'.
+There are 9 rows in 1 pages for object "nivel".
+DBCC results for 'PedidoEntrega_2018'.
+There are 3654 rows in 29 pages for object "PedidoEntrega_2018".
+DBCC results for 'LogEnvioCCEERetornoSucesso'.
+There are 48462 rows in 539 pages for object "LogEnvioCCEERetornoSucesso".
+DBCC results for 'LogEnvioCCEERetornoFalha'.
+There are 14714 rows in 495 pages for object "LogEnvioCCEERetornoFalha".
+DBCC results for 'PhaseLabelType'.
+There are 6 rows in 1 pages for object "PhaseLabelType".
+DBCC results for 'permissao'.
+There are 397 rows in 3 pages for object "permissao".
+DBCC results for 'vPQ_ClassificationRegions'.
+There are 17 rows in 1 pages for object "vPQ_ClassificationRegions".
+DBCC results for 'vPQ_Events'.
+There are 202 rows in 4 pages for object "vPQ_Events".
+DBCC results for 'EntradaManual_2018'.
+There are 2765 rows in 34 pages for object "EntradaManual_2018".
+DBCC results for 'PQ_IncidentEventMap'.
+There are 0 rows in 0 pages for object "PQ_IncidentEventMap".
+DBCC results for 'acesso'.
+There are 25 rows in 1 pages for object "acesso".
+DBCC results for 'PQ_Incidents'.
+There are 0 rows in 0 pages for object "PQ_Incidents".
+DBCC results for 'Custom_EstimatedValue'.
+There are 0 rows in 0 pages for object "Custom_EstimatedValue".
+DBCC results for 'Quantity'.
+There are 6582 rows in 67 pages for object "Quantity".
+DBCC results for 'Recorder'.
+There are 7362 rows in 62 pages for object "Recorder".
+DBCC results for 'LogEnvioCCEERetornoSituacaoColeta'.
+There are 0 rows in 0 pages for object "LogEnvioCCEERetornoSituacaoColeta".
+DBCC results for 'RecorderState'.
+There are 6282 rows in 30 pages for object "RecorderState".
+DBCC results for 'Registry'.
+There are 4 rows in 1 pages for object "Registry".
+DBCC results for 'sysdiagrams'.
+There are 0 rows in 0 pages for object "sysdiagrams".
+DBCC results for 'Pedido'.
+There are 2 rows in 1 pages for object "Pedido".
+DBCC results for 'RVW_SprocViewProvider_Argument'.
+There are 0 rows in 0 pages for object "RVW_SprocViewProvider_Argument".
+DBCC results for 'PedidoEntrega'.
+There are 17 rows in 1 pages for object "PedidoEntrega".
+DBCC results for 'Source'.
+There are 1136 rows in 81 pages for object "Source".
+DBCC results for 'Versao'.
+There are 92 rows in 1 pages for object "Versao".
+DBCC results for 'sys.plan_persist_query_text'.
+There are 0 rows in 0 pages for object "sys.plan_persist_query_text".
+DBCC results for 'SourceQuantity'.
+There are 40721 rows in 162 pages for object "SourceQuantity".
+DBCC results for 'sys.plan_persist_query'.
+There are 0 rows in 0 pages for object "sys.plan_persist_query".
+DBCC results for 'sys.plan_persist_plan'.
+There are 0 rows in 0 pages for object "sys.plan_persist_plan".
+DBCC results for 'SourceState'.
+There are 1105 rows in 5 pages for object "SourceState".
+DBCC results for 'sys.plan_persist_runtime_stats'.
+There are 0 rows in 0 pages for object "sys.plan_persist_runtime_stats".
+DBCC results for 'Auditoria'.
+There are 2068238 rows in 11760 pages for object "Auditoria".
+DBCC results for 'sys.plan_persist_runtime_stats_interval'.
+There are 0 rows in 0 pages for object "sys.plan_persist_runtime_stats_interval".
+DBCC results for 'PedidoRealocar'.
+There are 0 rows in 0 pages for object "PedidoRealocar".
+DBCC results for 'SourceType'.
+There are 19 rows in 1 pages for object "SourceType".
+DBCC results for 'sys.plan_persist_context_settings'.
+There are 0 rows in 0 pages for object "sys.plan_persist_context_settings".
+DBCC results for 'TimeZone'.
+There are 16 rows in 1 pages for object "TimeZone".
+DBCC results for 'AuditoriaValor'.
+There are 11916860 rows in 66591 pages for object "AuditoriaValor".
+DBCC results for 'grupo'.
+There are 11 rows in 1 pages for object "grupo".
+Mensagem 8978, Nível 16, Estado 1, Linha 1
+Table error: Object ID 1162747495, index ID 1, partition ID 72057595406057472, alloc unit ID 72057595492958208 (type In-row data). Page (1:6098906) is missing a reference from previous page (1:6098905). Possible chain linkage problem.
+Mensagem 8976, Nível 16, Estado 1, Linha 1
+Table error: Object ID 1162747495, index ID 1, partition ID 72057595406057472, alloc unit ID 72057595492958208 (type In-row data). Page (1:6098908) was not seen in the scan although its parent (1:6096864) and previous (1:6098907) refer to it. Check any previous errors.
+Mensagem 8976, Nível 16, Estado 1, Linha 1
+Table error: Object ID 1162747495, index ID 1, partition ID 72057595406057472, alloc unit ID 72057595492958208 (type In-row data). Page (1:6098905) was not seen in the scan although its parent (1:6096864) and previous (1:6098904) refer to it. Check any previous errors.
+Mensagem 8928, Nível 16, Estado 1, Linha 1
+Object ID 1162747495, index ID 1, partition ID 72057595406057472, alloc unit ID 72057595492958208 (type In-row data): Page (1:6098905) could not be processed.  See other errors for details.
+Mensagem 8939, Nível 16, Estado 98, Linha 1
+Table error: Object ID 1162747495, index ID 1, partition ID 72057595406057472, alloc unit ID 72057595492958208 (type In-row data), page (1:6098908). Test (IS_OFF (BUF_IOERR, pBUF->bstat)) failed. Values are 133129 and -4.
+Mensagem 8928, Nível 16, Estado 1, Linha 1
+Object ID 1162747495, index ID 1, partition ID 72057595406057472, alloc unit ID 72057595492958208 (type In-row data): Page (1:6098908) could not be processed.  See other errors for details.
+Mensagem 8978, Nível 16, Estado 1, Linha 1
+Table error: Object ID 1162747495, index ID 1, partition ID 72057595406057472, alloc unit ID 72057595492958208 (type In-row data). Page (1:6098909) is missing a reference from previous page (1:6098908). Possible chain linkage problem.
+DBCC results for 'WaveformLog2'.
+There are 2389168 rows in 1455304 pages for object "WaveformLog2".
+CHECKDB found 0 allocation errors and 7 consistency errors in table 'WaveformLog2' (object ID 1162747495).
+DBCC results for 'EquipamentoIntervalo'.
+There are 8 rows in 1 pages for object "EquipamentoIntervalo".
+DBCC results for 'EquipamentoTipoExportacao'.
+There are 13 rows in 1 pages for object "EquipamentoTipoExportacao".
+DBCC results for 'PQ_Events'.
+There are 202 rows in 4 pages for object "PQ_Events".
+DBCC results for 'EquipamentoTipo'.
+There are 13 rows in 1 pages for object "EquipamentoTipo".
+DBCC results for 'EntradaManual'.
+There are 4797 rows in 69 pages for object "EntradaManual".
+Mensagem 8928, Nível 16, Estado 1, Linha 1
+Object ID 1274747894, index ID 5, partition ID 72057595958001664, alloc unit ID 72057596119416832 (type In-row data): Page (1:7111136) could not be processed.  See other errors for details.
+Mensagem 8976, Nível 16, Estado 1, Linha 1
+Table error: Object ID 1274747894, index ID 5, partition ID 72057595958001664, alloc unit ID 72057596119416832 (type In-row data). Page (1:7111136) was not seen in the scan although its parent (1:7032651) and previous (1:7111127) refer to it. Check any previous errors.
+Mensagem 8978, Nível 16, Estado 1, Linha 1
+Table error: Object ID 1274747894, index ID 5, partition ID 72057595958001664, alloc unit ID 72057596119416832 (type In-row data). Page (1:7111137) is missing a reference from previous page (1:7111136). Possible chain linkage problem.
+DBCC results for 'EventLog2'.
+There are 104419024 rows in 567500 pages for object "EventLog2".
+CHECKDB found 0 allocation errors and 3 consistency errors in table 'EventLog2' (object ID 1274747894).
+DBCC results for 'EquipamentoPrincipal'.
+There are 10 rows in 1 pages for object "EquipamentoPrincipal".
+DBCC results for 'Alarm'.
+There are 3955983 rows in 24576 pages for object "Alarm".
+DBCC results for 'DataMonitorEndress'.
+There are 9 rows in 1 pages for object "DataMonitorEndress".
+DBCC results for 'relatorio'.
+There are 83 rows in 1 pages for object "relatorio".
+DBCC results for 'AlarmAcknowledgement'.
+There are 1 rows in 1 pages for object "AlarmAcknowledgement".
+DBCC results for 'AlarmClassificationRoots'.
+There are 1058 rows in 13 pages for object "AlarmClassificationRoots".
+DBCC results for 'AlarmDefinition'.
+There are 4546 rows in 92 pages for object "AlarmDefinition".
+DBCC results for 'relatorio_tipo'.
+There are 89 rows in 1 pages for object "relatorio_tipo".
+DBCC results for 'AlarmEvent'.
+There are 7217924 rows in 15167 pages for object "AlarmEvent".
+DBCC results for 'AlarmStates'.
+There are 7550499 rows in 30824 pages for object "AlarmStates".
+DBCC results for 'relatorio_principal'.
+There are 252 rows in 1 pages for object "relatorio_principal".
+DBCC results for 'AlarmStateTypes'.
+There are 4 rows in 1 pages for object "AlarmStateTypes".
+DBCC results for 'RELATORIO_INTELSAT'.
+There are 27177177 rows in 383518 pages for object "RELATORIO_INTELSAT".
+DBCC results for 'AlarmStringClassification'.
+There are 8041 rows in 71 pages for object "AlarmStringClassification".
+DBCC results for 'Burst'.
+There are 0 rows in 0 pages for object "Burst".
+DBCC results for 'relatorio_intervalo'.
+There are 265 rows in 1 pages for object "relatorio_intervalo".
+DBCC results for 'BurstDataLog'.
+There are 0 rows in 0 pages for object "BurstDataLog".
+DBCC results for 'DeviceSettings'.
+There are 3535 rows in 41 pages for object "DeviceSettings".
+DBCC results for 'Incident'.
+There are 473680 rows in 8848 pages for object "Incident".
+DBCC results for 'relatorio_exportacao'.
+There are 261 rows in 1 pages for object "relatorio_exportacao".
+DBCC results for 'IncidentAlarm'.
+There are 3955983 rows in 8314 pages for object "IncidentAlarm".
+DBCC results for 'LoadLossLog'.
+There are 124598 rows in 11121 pages for object "LoadLossLog".
+DBCC results for 'LoadLossQueue'.
+There are 0 rows in 1 pages for object "LoadLossQueue".
+DBCC results for 'EntradaManualRequisicao'.
+There are 0 rows in 0 pages for object "EntradaManualRequisicao".
+DBCC results for 'ModelingReports_ExceptionPeriods'.
+There are 10 rows in 1 pages for object "ModelingReports_ExceptionPeriods".
+DBCC results for 'empresa'.
+There are 0 rows in 0 pages for object "empresa".
+DBCC results for 'ModelingReports_SavedModels'.
+There are 0 rows in 0 pages for object "ModelingReports_SavedModels".
+DBCC results for 'ModelingReports_SubModels'.
+There are 179 rows in 8 pages for object "ModelingReports_SubModels".
+DBCC results for 'UsinaPrecoCombustivel'.
+There are 0 rows in 0 pages for object "UsinaPrecoCombustivel".
+DBCC results for 'serial'.
+There are 4 rows in 1 pages for object "serial".
+DBCC results for 'RelatorioCarvaoPCI_PCS'.
+There are 0 rows in 0 pages for object "RelatorioCarvaoPCI_PCS".
+DBCC results for 'DataLog2Duplicate'.
+There are 0 rows in 0 pages for object "DataLog2Duplicate".
+DBCC results for 'EventAcknowledgement'.
+There are 2 rows in 1 pages for object "EventAcknowledgement".
+DBCC results for 'DataLogAudit'.
+There are 0 rows in 0 pages for object "DataLogAudit".
+DBCC results for 'Agenda'.
+There are 2 rows in 1 pages for object "Agenda".
+DBCC results for 'sys.queue_messages_1977058079'.
+There are 0 rows in 0 pages for object "sys.queue_messages_1977058079".
+DBCC results for 'DataLogAuditEntry'.
+There are 0 rows in 0 pages for object "DataLogAuditEntry".
+DBCC results for 'sys.queue_messages_2009058193'.
+There are 0 rows in 0 pages for object "sys.queue_messages_2009058193".
+DBCC results for 'AgendaParametro'.
+There are 160 rows in 1 pages for object "AgendaParametro".
+DBCC results for 'log_relatorios'.
+There are 211502 rows in 3196 pages for object "log_relatorios".
+DBCC results for 'EntradaManualInventario'.
+There are 91 rows in 1 pages for object "EntradaManualInventario".
+DBCC results for 'sys.queue_messages_2041058307'.
+There are 0 rows in 0 pages for object "sys.queue_messages_2041058307".
+DBCC results for 'locadoras'.
+There are 7 rows in 1 pages for object "locadoras".
+DBCC results for 'sys.filestream_tombstone_2073058421'.
+There are 0 rows in 0 pages for object "sys.filestream_tombstone_2073058421".
+DBCC results for 'DDD_Data'.
+There are 0 rows in 0 pages for object "DDD_Data".
+DBCC results for 'sys.syscommittab'.
+There are 0 rows in 0 pages for object "sys.syscommittab".
+DBCC results for 'usinas'.
+There are 146 rows in 2 pages for object "usinas".
+DBCC results for 'DDD_Networks'.
+There are 5 rows in 1 pages for object "DDD_Networks".
+DBCC results for 'sys.filetable_updates_2105058535'.
+There are 0 rows in 0 pages for object "sys.filetable_updates_2105058535".
+DBCC results for 'DDD_Sources'.
+There are 0 rows in 0 pages for object "DDD_Sources".
+DBCC results for 'equipamentos'.
+There are 700 rows in 25 pages for object "equipamentos".
+CHECKDB found 0 allocation errors and 21 consistency errors in database 'ION_Data'.
+repair_allow_data_loss is the minimum repair level for the errors found by DBCC CHECKDB (ION_Data).
+DBCC execution completed. If DBCC printed error messages, contact your system administrator.
+
+Horário de conclusão: 2023-02-27T17:08:52.1385444-03:00
