@@ -1,0 +1,6 @@
+
+
+SELECT * FROM DataLog2
+WHERE SourceID = 330 AND QuantityID = 10012
+AND TimestampUTC LIKE '2023-02-17 %'
+ 
