@@ -1,0 +1,21 @@
+Serviço está entrando no Método Enviar Email! True - 07/02/2023 00:01:38
+xmlRetornoErro Response vazio A conexão subjacente estava fechada: Erro inesperado em um envio.System.IO.IOException: Não é possível ler os dados da conexão de transporte: Foi forçado o cancelamento de uma conexão existente pelo host remoto. ---> System.Net.Sockets.SocketException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+   em System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   em System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   em System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
+   em System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   em System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   em System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   em System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   em System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.TlsStream.CallProcessAuthentication(Object state)
+   em System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   em System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   em System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   em System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   em System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   em System.Net.ConnectStream.WriteHeaders(Boolean async)   em System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   em SendEmailService.Class.CONFIGURACAO_CCEE.EnviarRelCCEE(AGENDA_CONFIGURACAO_CCEE certificado, XmlDocument xml, Int32 agendaID, String urlBase, String endPoint, String SOAPAction, Int32 idEnvioColeta) na C:\Users\Desenvolvimento\source\repos\sendemailservice\Class\CONFIGURACAO_CCEE.cs:linha 30707/02/2023 00:02:23
