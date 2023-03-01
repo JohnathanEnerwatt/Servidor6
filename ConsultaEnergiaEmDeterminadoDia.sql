@@ -1,6 +1,3 @@
-
-
-SELECT * FROM DataLog2
+SELECT ROUND(Value, 0) AS [Valor], DATEADD(MINUTE, -185, TimesTampUTC) AS [TimeTamp UTC]FROM DataLog2
 WHERE SourceID = 330 AND QuantityID = 10012
-AND TimestampUTC LIKE '2023-02-17 %'
- 
+AND DATEADD(MINUTE, -185, TimesTampUTC) LIKE '2023-03-01 %'
